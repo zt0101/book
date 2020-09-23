@@ -4,5 +4,7 @@
 
 ## ads
 
-* [Google ads](ads/untitled.md)
+* [Google ads-广告算法](ads/广告算法.md)
+* [facebook ads-广告算法](ads/广告算法.md)
+
 
