@@ -1,2 +1,2 @@
-# book
-book for ads
+# Initial page
+
